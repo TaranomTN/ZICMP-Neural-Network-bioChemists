@@ -68,3 +68,9 @@ This makes ZICMP **the most flexible and accurate model** for real-world count d
 
 ---
 
+
+## 📬 Contact
+
+Created by [Taranom Torabi](mailto:taranom.torabi1377@gmail.com) — feel free to reach out with any questions or feedback!
+
+
